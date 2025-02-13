@@ -1,4 +1,4 @@
-## 👋 Welcome to my GitHub
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=MV+Boli&weight=500&size=26&letterSpacing=little&pause=1000&color=000000&width=435&lines=%F0%9F%91%8B+Welcome+to+my+GitHub)](https://git.io/typing-svg)
 
 I'm Natália Nogueira, passionate about technology and programming, I am starting my career as a developer and looking for challenges to increase my skills.
 
