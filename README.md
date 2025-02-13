@@ -1,10 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=MV+Boli&weight=500&size=26&letterSpacing=little&pause=1000&color=000000&width=435&lines=%F0%9F%91%8B+Welcome+to+my+GitHub)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=MV+Boli&weight=500&size=26&letterSpacing=little&pause=1000&color=000000&width=435&lines=%F0%9F%91%8B+Welcome+to+my+Github)](https://git.io/typing-svg)
 
 I'm Natália Nogueira, passionate about technology and programming, I am starting my career as a developer and looking for challenges to increase my skills.
 
 > “Fall seven times, stan up eight"
 
-# 💻 Technologies and tools:
+### 💻 Technologies and tools:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Na-Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -18,7 +18,9 @@ I'm Natália Nogueira, passionate about technology and programming, I am startin
   <img align="center" alt="Na-VS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg">
 </div><br>
 
-# 🌐 Socials:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiNataliaNogueira1=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+### 🌐 Socials:
 
 <div> 
   <a href="https://www.linkedin.com/in/nat%C3%A1lia-nogueira-58603a201/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    <a href="mailto:natalianogueir20006@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
