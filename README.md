@@ -18,7 +18,7 @@ I am starting my career as a developer and looking for challenges to increase my
   <img align="center" alt="Na-VS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original.svg">
   <img align="center" alt="Na-VS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg">
 </div><br>
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/NataliaNogueira1=anuraghazra&layout=compact)-->
+(https://github-readme-stats.vercel.app/api/top-langs/NataliaNogueira1=anuraghazra&layout=compact)
 <!--https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card-->
 
 ### 🌐 Socials:
