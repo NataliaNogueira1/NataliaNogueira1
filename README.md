@@ -20,8 +20,13 @@ I am starting my career as a developer and looking for challenges to increase my
   <img align="center" alt="Na-Eclipse" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg">
 </div><br>
 
+### 📊 Stats:
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=NataliaNogueira1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+
 ### 🌐 Socials:
 
 <div> 
-  <a href="https://www.linkedin.com/in/nat%C3%A1lia-nogueira-58603a201/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    <a href="mailto:natalianogueir20006@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/nat%C3%A1lia-nogueira-58603a201/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
+  <a href="mailto:natalianogueir20006@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
