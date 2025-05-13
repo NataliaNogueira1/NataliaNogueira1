@@ -27,6 +27,7 @@ I am starting my career as a developer and looking for challenges to increase my
 ### 🌐 Socials:
 
 <div> 
-  <a href="https://www.linkedin.com/in/nat%C3%A1lia-nogueira-58603a201/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
+  <a href="https://www.linkedin.com/in/nat%C3%A1lia-nogueira-58603a201/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.credly.com/users/natalia-nogueira.0ac309e1"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" target="_blank"></a>
   <a href="mailto:natalianogueir20006@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
